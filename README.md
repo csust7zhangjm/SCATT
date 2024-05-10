@@ -1,6 +1,7 @@
-# SCATT
+# Please cite the following papers:
 Jianming Zhang, Wentao Chen, Jiangxin Dai, Jin Zhang. SCATT: Transformer tracking with symmetric cross-attention. Applied Intelligence, 2024, DOI: 10.1007/s10489-024-05467-1. 
 
+## BIB:
 @Article{Zhang2024,
 author={Zhang, Jianming
 and Chen, Wentao
@@ -16,5 +17,6 @@ doi={10.1007/s10489-024-05467-1},
 url={https://doi.org/10.1007/s10489-024-05467-1}
 }
 
-### The raw data and models can be obtained [here](https://pan.baidu.com/s/15XGV2kzxlDjickXOwsFGng?pwd=yyjy) 
+### The raw data and models:
+can be obtained [here](https://pan.baidu.com/s/15XGV2kzxlDjickXOwsFGng?pwd=yyjy). 
 
